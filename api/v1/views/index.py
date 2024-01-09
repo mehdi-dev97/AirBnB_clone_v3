@@ -6,12 +6,12 @@ from models import storage
 
 
 hbnbText = {
-    "amenities": "Amenity",
-    "cities": "City",
-    "places": "Place",
-    "reviews": "Review",
-    "states": "State",
-    "users": "User"
+  "amenities": 47, 
+  "cities": 36, 
+  "places": 154, 
+  "reviews": 718, 
+  "states": 27, 
+  "users": 31
 }
 
 
